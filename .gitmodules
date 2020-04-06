@@ -1,0 +1,24 @@
+[submodule "roles/uberspace-mail-domain"]
+	path = roles/uberspace-mail-domain
+	url = git@github.com:Snapstromegon/ansible-role-uberspace-mail-domain.git
+[submodule "roles/uberspace-mail-catchall"]
+	path = roles/uberspace-mail-catchall
+	url = git@github.com:Snapstromegon/ansible-role-uberspace-mail-catchall.git
+[submodule "roles/uberspace-mail-forward"]
+	path = roles/uberspace-mail-forward
+	url = git@github.com:Snapstromegon/ansible-role-uberspace-mail-forward.git
+[submodule "roles/uberspace-mail-spamfilter"]
+	path = roles/uberspace-mail-spamfilter
+	url = git@github.com:Snapstromegon/ansible-role-uberspace-mail-spamfilter.git
+[submodule "roles/uberspace-mail-user"]
+	path = roles/uberspace-mail-user
+	url = git@github.com:Snapstromegon/ansible-role-uberspace-mail-user.git
+[submodule "roles/uberspace-tools-version"]
+	path = roles/uberspace-tools-version
+	url = git@github.com:Snapstromegon/ansible-role-uberspace-tools-version.git
+[submodule "roles/uberspace-web-backend"]
+	path = roles/uberspace-web-backend
+	url = git@github.com:Snapstromegon/ansible-role-uberspace-web-backend.git
+[submodule "roles/uberspace-web-domain"]
+	path = roles/uberspace-web-domain
+	url = git@github.com:Snapstromegon/ansible-role-uberspace-web-domain.git
